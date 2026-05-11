@@ -1,33 +1,60 @@
-# **ReIn**
+# ReIn
 
-### 🎯 청강문화산업대학교 입학 전 신입생 협업 프로젝트
-
----
-
-## 📌 **프로젝트 개요**
-- **게임 장르**: 3D 멀티 턴제 게임
-- **개발 기간**: 2024-11-17 ~ (진행중)
-- **팀 구성**: 16명 (기획 3명, 프로그래밍 6명, 그래픽 7명)
-- **목표**: 신입생들 간의 협업을 통해 실전 프로젝트 경험
-- **역할**: 프로그래밍 팀장 (회의 진행, 일정 조율, 개발 리드)
+### 🎯 Pre-Admission Freshman Collaboration Project at ChungKang College of Cultural Industries
 
 ---
 
-## 🔑 **주요 기술 사항**
-- **Unity**: 게임 엔진
-- **C#**: 프로그래밍 언어
-- **커스텀 던전 생성**: 트리 구조의 던전을 커스텀하여 생성
+## 📌 Project Overview
+- **Game Genre**: 3D Multiplayer Turn-Based Game
+- **Development Period**: 2024-11-17 ~ (Development Suspended)
+- **Team Size**: 16 Members (3 Game Designers, 6 Programmers, 7 Artists)
+- **Goal**: To gain practical project experience through collaboration among incoming freshmen
+- **Role**: Programming Team Leader (Meeting Management, Schedule Coordination, Development Leadership)
 
 ---
 
-## 🤔 **느낀점과 배운점**
-- **3D 게임 개발 경험**: 처음 참여한 3D게임 프로젝트였지만 책임감있게 해냈습니다.
-- **대규모 협업 프로젝트 경험**: 많은 인원이 참여한 만큼 역할 분담과 일정 조율이 중요하다는 점을 깨달았습니다.
-- **팀장 역할 수행**: 회의 진행과 일정 조율을 통해 **리더십과 커뮤니케이션 스킬**을 향상시킬 수 있었습니다.
-- **GitHub 브랜치 전략 활용**: 충돌 방지 및 원활한 협업을 위해 체계적인 브랜치 전략을 도입하였습니다.
-- **실전 경험을 통한 성장**: GitHub 브랜치 전략과 함께 프로그래밍 팀장 역할을 수행하며 프로젝트 관리를 하였기 때문에 실무 감각을 익힐 수 있었습니다.
+## 🔑 Key Technologies
+
+- **Unity**
+  - Game engine used for gameplay systems and multiplayer implementation
+
+- **C#**
+  - Core programming language used for gameplay and system development
+
+- **Custom Dungeon Generation**
+  - Implemented customizable dungeon generation based on tree structures
+  - Designed expandable dungeon layouts through procedural structure generation
+
+- **GitHub Collaboration**
+  - Applied structured branch strategies for stable team collaboration
+  - Managed version control and conflict prevention during large-scale development
 
 ---
 
-## 📄 **프로젝트 링크**
-[Github 링크](https://github.com/justbuild8656/project-ReIN)
+## 🤔 What I Learned
+
+- **3D Game Development Experience**
+  - Although this was my first large-scale 3D game project, I carried out my responsibilities with commitment and accountability.
+
+- **Large Team Collaboration Experience**
+  - Working with a large number of team members taught me the importance of task distribution and schedule coordination.
+
+- **Experience as a Team Leader**
+  - Leading meetings and coordinating schedules helped improve my leadership and communication skills.
+
+- **GitHub Branch Strategy**
+  - Introduced a structured branch strategy to reduce merge conflicts and improve collaboration efficiency.
+
+- **Growth Through Practical Experience**
+  - Managing the project as the programming team leader while organizing GitHub workflows helped me develop practical project management skills similar to real production environments.
+
+- **Reflection on Project Suspension**
+  - Although the project was eventually suspended, the experience provided valuable lessons about large-scale collaboration, project management, and communication within development teams.
+
+---
+
+## 📄 Project Links
+
+- [GitHub Repository](https://github.com/justbuild8656/project-ReIN)
+
+---
